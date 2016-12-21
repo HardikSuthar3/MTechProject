@@ -1,0 +1,5 @@
+clear; 
+for i=1:9
+    [area_feature,area_label] = GetHOGFeaturesCorrospondingToFiringVisualArea(i); 
+    fileName = sprintf()
+end
